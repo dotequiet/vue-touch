@@ -32,7 +32,7 @@ const testClass = class {
     console.log(`${privateVar}调用了私有变量`)
   }
 }
-// 出事化方法必须使用new yy
+// 出事化方法必须使用new
 let testOne = new testClass('变量X', '变量Y')
 
 const { handelFn } = testOne
