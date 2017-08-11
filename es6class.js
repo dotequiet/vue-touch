@@ -32,7 +32,7 @@ const testClass = class {
     console.log(`${privateVar}调用了私有变量`)
   }
 }
-// 出事化方法必须使用new
+// 出事化方法必须使用new yy
 let testOne = new testClass('变量X', '变量Y')
 
 const { handelFn } = testOne
@@ -40,4 +40,3 @@ handelFn('提取后的MSG')
 testOne.prop = 'qqq'
 console.log(testOne.prop)
 testOne.handelFn('传入的变量handelMsg')
-
