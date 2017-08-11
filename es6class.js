@@ -40,3 +40,4 @@ handelFn('提取后的MSG')
 testOne.prop = 'qqq'
 console.log(testOne.prop)
 testOne.handelFn('传入的变量handelMsg')
+
