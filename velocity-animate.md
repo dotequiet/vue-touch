@@ -1,4 +1,4 @@
-//velocity一个类似jq animation的动画库也是Vue官网推荐使用的动画库，自己用了下感觉还是棒棒哒。。官网地址：http://velocityjs.org
+//velocity一个类似jq animation的动画库也是Vue.官网推荐使用的动画库官网地址：http://velocityjs.org
 
         import Velocity from 'velocity-animate'
         Velocity(el,Attributes,fn)
