@@ -1,6 +1,5 @@
 ୧(๑•̀⌄•́๑)૭
-# learningVue
-Vue-touch
+# vue-touch
   
   demo
   
